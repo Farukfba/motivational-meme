@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+footer{
+    background-color: black;
+    margin-bottom: 0%;
+    width: 100%;
+}
+.Copyright{
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    margin-top: 95px;
+    margin-bottom: 0%;
+
+}
+.poster{
+    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.motivational-img{
+    width: 100%;
+    border: 5px solid white;
+}
